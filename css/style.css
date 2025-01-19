@@ -5,7 +5,7 @@ list-style: none;
 text-decoration: none;
 box-sizing: border-box;
 }
-}
+
 body{
 
 background-color: rgba(222, 222, 209, 0.704);
@@ -46,9 +46,9 @@ border-radius: 10px;
 background-color:  rgba(255, 210, 164, 1);
 text-align: center;
 }
-section{
+
  
-}
+
 .reletion__title{
     text-align: center;
     font-size: 10px;
@@ -130,10 +130,10 @@ margin-top: 30px;
 
 
 
-.footer{
+
    
  
-}
+
 .footer__general{
     display: flex;
     justify-content: space-between;

@@ -1,0 +1,192 @@
+*{
+ margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+box-sizing: border-box;
+}
+}
+body{
+
+background-color: rgba(222, 222, 209, 0.704);
+
+}
+
+
+.container{
+width: 1300px;
+margin: 0 auto;
+
+}
+.header__nav{
+background-color: black;
+display: flex;
+justify-content: space-between;
+padding: 10px 100px;
+
+}
+
+
+.header__list{
+display: flex;
+margin-top: 5px;
+margin-right: 360px;
+text-align: center;
+gap: 40px;
+}
+
+.header__link{
+color: gainsboro;
+text-align: center;
+font-weight: 100;
+}
+.header__btn{
+padding: 10px 20px;
+border-radius: 10px;
+background-color:  rgba(255, 210, 164, 1);
+text-align: center;
+}
+section{
+ 
+}
+.reletion__title{
+    text-align: center;
+    font-size: 10px;
+    color: rgba(220, 152, 83, 1);
+    margin-top: 70px;
+}
+.reletion__title2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.reletion__text{
+    text-align: center;
+    color: grey;
+    margin-top: 15px;
+}
+.reletion__img{
+    margin-top: 50px;
+
+}
+.lorem{
+    margin-left: 300px;
+    color: grey;
+   font-size: 20px;
+}
+.lorem__items{
+  list-style: circle;
+}
+.lorem__box{
+    display: flex;
+   gap: 40px;
+    margin-top: 30px;
+    color: gray;
+    font-size: 20px;
+}
+.lorem__text{
+    margin-top: 30px;
+    color: grey;
+    font-size: 20px;
+}
+.lorem__predlog{
+    margin-top: 30px;
+    color: grey;
+    font-size: 20px;
+}
+.kind{
+  margin-top: 20px;
+ color: grey;
+margin-left: 300px;
+}
+.kind__title{
+    color: black;
+    font-size: 30px;
+
+}
+.kind__text{
+    margin-top: 40px;
+}
+.kind__text1{
+    margin-top: 30px;
+}
+.kind__img{
+   
+    margin-top: 40px;
+}
+.lorem__title3{
+color: black;
+font-size: 30px;
+margin-top: 30px;
+
+}
+.lorem__text3{
+    margin-top:30px;
+}
+.lorem__title{
+    color: black;
+}
+
+
+
+.footer{
+   
+ 
+}
+.footer__general{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    margin-top: 120px;
+    background-color:rgba(22, 23, 34, 1)  ;
+}
+.footer__list{
+    color: white;
+    margin-top: 20px;
+}
+.footer__img{
+    color: rgba(255, 208, 160, 1);
+}
+.footer__items{
+    margin-top: 20px;
+}
+.footer__box2title{
+   
+    color:gainsboro;
+    font-size: 25px;
+    font-weight: 100;
+}
+.footer2__list{
+    
+    font-weight: 100;
+    color: gainsboro;
+}
+.footer_title3{
+    color: gainsboro;
+    font-weight: 100;
+
+}
+.footer__img2{
+    margin-top: 30px;
+}
+.footer__title4{
+   color: #fff;
+   font-weight: bolder;
+   font-size: 40px;
+}
+.footer__input{
+    margin-top: 30px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.submit{
+     padding: 17px 27px;
+     border-radius: 10px;
+     background-color: rgba(255, 208, 160, 1);
+     position: relative;
+     right: 25px;
+     border: 1px solid grey;
+}
